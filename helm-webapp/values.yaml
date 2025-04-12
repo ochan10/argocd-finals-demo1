@@ -8,5 +8,5 @@ configmap:
     CUSTOM_HEADER: 'This app was deployed with helm!'
 
 image:
-  name: ochan110/getting-started:latest
+  name: ochan110/getting-started
   tag: latest
