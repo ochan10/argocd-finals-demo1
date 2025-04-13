@@ -8,7 +8,7 @@ spec:
     spec: # Pod spec
       containers:
       - name: mycontainer
-        image: "ochan110/getting-started:latest"
+        image: "ochan110/getting-started"
         ports:
         - containerPort: 80
         envFrom:
